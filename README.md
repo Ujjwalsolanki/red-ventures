@@ -16,11 +16,11 @@ Activate the new environment using the appropriate command for your operating sy
 
   * **macOS / Linux**
     ```bash
-    source .venv/bin/activate
+    source venv/bin/activate
     ```
   * **Windows**
     ```bash
-    .venv\Scripts\activate
+    venv\Scripts\activate
     ```
 
 **Step 3: Install Dependencies**
